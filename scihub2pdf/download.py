@@ -39,7 +39,7 @@ xpath_captcha = "//*[@id='captcha']"
 xpath_pdf = "//*[@id='pdf']"
 xpath_input = "/html/body/div/table/tbody/tr/td/form/input"
 xpath_form = "/html/body/div/table/tbody/tr/td/form"
-domain_scihub = "http://sci-hub.cc/"
+domain_scihub = "http://80.82.77.83/"
 
 ScrapSci = SciHub(headers,
                   xpath_captcha,
