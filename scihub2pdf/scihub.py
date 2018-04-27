@@ -23,7 +23,7 @@ class SciHub(object):
                  xpath_pdf="//*[@id='pdf']",
                  xpath_input="/html/body/div/table/tbody/tr/td/form/input",
                  xpath_form="/html/body/div/table/tbody/tr/td/form",
-                 domain_scihub="http://sci-hub.cc/",
+                 domain_scihub="http://sci-hub.tw/",
                  ):
 
         self.xpath_captcha = xpath_captcha
